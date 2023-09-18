@@ -1,0 +1,32 @@
+.icon {
+    color: coral;
+    cursor: pointer;
+}
+.icon .svg2 {
+    display: none;
+}
+#messages {
+    width: 400px;
+    min-height: 300px;
+    border: 2px solid rgb(104, 104, 248);
+    margin-bottom: 5px;
+}
+#messageInput {
+    border: 2px solid rgb(104, 104, 248);
+    height: 20px;
+    width: 225px;
+}
+#sendMessage {
+    border: none;
+    background-color: rgb(104, 104, 248);
+    color: aliceblue;
+    padding: 5px;
+    height: 25px;
+}
+#sendLocation {
+    border: none;
+    background-color: rgb(104, 104, 248);
+    color: aliceblue;
+    padding: 5px;
+    height: 25px;
+}
